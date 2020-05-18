@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:ndowens/artix-repo.git
+	branch = master
+	commit = 1a050367fd746ec6cce886ef1a90714c9892e824
+	parent = ceac1cad85c57c9d8238f136837d4fd3a8e6efb2
+	method = merge
+	cmdver = 0.4.1
